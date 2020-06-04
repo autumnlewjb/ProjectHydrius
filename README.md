@@ -1,4 +1,23 @@
-# Documentation of **Project Hydrius**
+# HydriusProject
+This repo contains the code for Project Hydrius established in 2019. 
+
+# User Manual
+1. Installation
+	-> Follow labels at the beginning of the code (line 3-13)
+2. Change periods for different processes (line 16-20)
+3. You're all set!!
+
+For debugging:
+1) Uncomment line 91-96
+2) Comment line 87-90
+3) Comment line 141
+4) Uncomment line 142
+
+remember to undo everything after debugging!
+
+Enjoy!
+
+# Documentation for **Project Hydrius**
 
 17/06/2019
 
