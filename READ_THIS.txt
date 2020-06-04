@@ -1,0 +1,17 @@
+User Manual
+Copyright by Lew Jun Bin
+
+1. Installation
+	-> Follow labels at the beginning of the code (line 3-13)
+2. Change periods for different processes (line 16-20)
+3. You're all set!!
+
+For debugging:
+A) Uncomment line 91-96
+B) Comment line 87-90
+C) Comment line 141
+D) Uncomment line 142
+
+remember to undo everything after debugging!
+
+Enjoy!
