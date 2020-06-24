@@ -108,13 +108,14 @@ _Pada masa yang sama, kami berharap dapat mewujudkan kesedaran dalam kalangan ma
 6. Reduce labor cost.
 7. Use renewable source of energy as main power supply.
 
-1. _Mengurangkan pencemaran nutrien._
-2. _Mengurangkan kesan kejadian eutrophikasi di sungai dan tasik._
-3. _Memudahkan kerja penjagaan tumbuh-tumbuhan bagi pengguna yang kerap ???_
-4. _Mengurangkan pembaziran air._
-5. _Mengurangkan jumlah baja yang digunakan._
-6. _Menjimat tenaga manusia._
-7. _Menggunakan tenaga boleh diperbaharui sebagai punca kuasa utama_
+
+1\. _Mengurangkan pencemaran nutrien._
+2\. _Mengurangkan kesan kejadian eutrophikasi di sungai dan tasik._
+3\. _Memudahkan kerja penjagaan tumbuh-tumbuhan bagi pengguna yang kerap ???_
+4\. _Mengurangkan pembaziran air._
+5\. _Mengurangkan jumlah baja yang digunakan._
+6\. _Menjimat tenaga manusia._
+7\. _Menggunakan tenaga boleh diperbaharui sebagai punca kuasa utama_
 
 ### Specifications
 
@@ -122,9 +123,9 @@ _Pada masa yang sama, kami berharap dapat mewujudkan kesedaran dalam kalangan ma
 2. pH sensor
 3. Arduino controlled water pump
 
-_1. Pengawal mikro Arduino Uno_
-_2. Pengesan sensor_
-_3. Pam air yang dikawal dengan Arduino_
+1\. _Pengawal mikro Arduino Uno_
+2\. _Pengesan sensor_
+3\. _Pam air yang dikawal dengan Arduino_
 
 ### Rationale
 
