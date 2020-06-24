@@ -1,9 +1,38 @@
-# HydriusProject
+# ProjectHydrius
 This repo contains the code for Project Hydrius established in 2019. 
 
 ## Table of Contents
 1. [Documentation for Code](#documentation-for-code)
-2. [Documentation for Project](#documentation-for-project-hydrius)
+	* [Introduction](#introduction)
+	* [Technologies](#technologies)
+	* [Scope of Functionalities](#scope-of-functionalities)
+	* [User Manual](#user-manual)
+2. [More Information](#more-information)
+	* [About the team](#about-the-team)
+	* [Overview](#overview)
+	* [Problem Statement](#problem-statement)
+	* [Project Summary](#project-summary)
+	* [Goals](#goals)
+	* [Specifications](#specifications)
+	* [Rationale](#rationale)
+	* [Benefits](#benefits)
+	* [Milestones](#milestones)
+	* [Future Plans](#future-plans)
+	* [Budget](#budget)
+
+# Documentation for Code
+
+## Introduction
+This repository contains the complete code to make the whole Project Hydrius work. 
+This repository is meant for innovation enthusiasts and not professionals.
+
+## Technologies
+* Arduino IDE (resemble C++ language)
+
+## Scope of Functionalities
+1. Detect pH of the water
+2. Run the pump for water circulation
+3. Watering the plant
 
 ## User Manual
 1. Installation
@@ -21,39 +50,27 @@ remember to undo everything after debugging!
 
 Enjoy!
 
-# Documentation for Code
-
-## Introduction
-This repository contains the complete code to make the whole Project Hydrius work. 
-This repository is meant for innovation enthusiasts and not professionals.
-
-## Technologies
-* Arduino IDE (resemble C++ language)
-
-## Scope of functionalities
-1. Detect pH of the water
-2. Run the pump for water circulation
-3. Watering the plant
-
-# Documentation for Project Hydrius
+## More Information
 
 17/06/2019
 
-## The Aquatists
+### About the team
 
-Kolej Matrikulasi Pulau Pinang,
+**The Aquatists**
+
+Kolej Matrikulasi Pulau Pinang, 
 Kementerian Pendidikan Malaysia,
 Pongsu Seribu,
 13200 Kepala Batas,
 Pulau Pinang
 
-## Overview
+### Overview
 
 Here we stand as we would like to introduce our automated watering system, one of the most commonly used and beneficial automated systems. This system helps people in their busy lives by watering plants, thus reducing their efforts in taking care of the plants and saving their time for more important tasks. This also works for people who like to go for vacation as they can fully depend on this system to keep the plants healthy. What differentiates our automatic watering system from other systems is that we managed to solve the problem of water shortage by implementing a water recycling system down at the base of the device. Excess water from the soil will flow down and channel back to the reservoir. This also reduces the dengue cases as no water is left behind and become stagnant. The pH sensor attached to the reservoir balances the water pH. This system can be implemented for the hotels gardens and landscapes, as well as plants for roadside, road divider and traffic island, as it is not only convenient but also saves labour cost.
 
 _Kami ingin memperkenalkan sistem penyiraman automatik kami, salah satu sistem automatik yang paling biasa digunakan dan berfaedah. Sistem ini membantu orang ramai dalam kehidupan mereka yang sibuk dengan menyiram tumbuhan, dengan itu memudahkan kerja menjaga tumbuh-tumbuhan dan masa yang dijimatkan itu boleh digunakan untuk tugas-tugas yang lebih penting. Sistem ini juga dapat membantu pengguna yang suka pergi melancong kerana sistem ini adalah automatik sepenuhnya. Keistimewaan yang membezakan sistem penyiraman automatik kami daripada sistem lain ialah kami berjaya menyelesaikan masalah kekurangan air dengan mempraktikkan sistem kitar semula air dalam projek kami. Air yang berlebihan dari tanah akan mengalir ke bawah dan disalurkan kembali ke takungan untuk digunakan untuk penyiraman. Sistem Ini juga mengurangkan kes denggi kerana tiada air bertakung yang merupakan habitat nyamuk Aedes. Pengesan nilai pH yang dilekatkan pada takungan dapat mengimbangi nilai pH air yang digunakan untuk penyiraman. Sistem ini boleh digunakan di taman-taman hotel dan landskap, serta tumbuh-tumbuhan untuk tepi jalan, pembahagi jalan dan pulau trafik, kerana sistem ini bukan sahaja memudahkan pengguna tetapi juga menjimatkan kos._
 
-## Problem Statement
+### Problem Statement
 
 Water is one of the vast resources in the world, but clean water is not as abundant as we think they are. Water pollution is the main source of the problem and human is the ultimate culprit. However, it is not too late to solve this problem now.
 
@@ -67,7 +84,7 @@ _Kita perlulah menghargai air. Kami telah menghadapi krisis air yang cukup seriu
 
 _Salah satu fenomena yang paling kurang diberi perhatian ialah eutrofikasi. Senario Ini bukan sahaja berlaku di Malaysia tetapi juga di seluruh dunia. Ringkasnya, eutrofikasi didefinisikan sebagai fenomena di mana nutrien berlebihan daripada sisa pertanian mengalir ke dalam air bawah tanah dan akhirnya menyalur kepada sumber air utama seperti tasik, kolam dan sungai. Proses ini merosakkan kualiti air negara kita kerana akan membawa kepada penumbuhan algae dan kekurangan tahap oksigen air dalam air untuk kegunaan hidupan akuatik. Dengan melihat dari skop yang lebih besar, gangguan ekosistem akuatik yang merupakan kesan utama eutrofikasi, akhirnya akan menjejaskan sumber makanan manusia, yang seterusnya menyebabkan kesan lebih serius kepada manusia._
 
-## Project Summary
+### Project Summary
 
 This project started on the 17 June 2019 at Penang Matriculation College. This project was identified to be the priority in helping the world to solve eutrophication problems. In current days, we often hear the news about water pollution on the news and newspapers. Water pollution has become a very serious problem to mankind. Approximately 70 percent of the world is covered by water but only 2.5 percent of it is fresh and can be used by mankind. Water pollution is often caused by chemical pollution (heavy metal) from industries and mines. Heavy metals are a metallic element that has a relatively high density, specific gravity, or atomic weight and has toxic effects which causes serious human health hazards and may induce cancer and other risks. However, excessive use of fertiliser also may cause water pollution, this is due to the flow of nutrients such as nitrogen and phosphorus into the body of water. When this occurs, large blooms of algae and aquatic plants occur, fed by the excess nitrogen and phosphorus. When the algae die, microorganisms in the water begin feeding on the remains as part of the decomposition process and consequently use up the available oxygen in the water. This leaves little oxygen for fish and other aquatic animals, resulting in the suffocation of aquatic life. BOD level increases, which show that the water is highly polluted.
 
@@ -81,7 +98,7 @@ _Menurut Nelson Benjamin, seorang wartawan berita akhbar Bintang, kualiti air di
 
 _Pada masa yang sama, kami berharap dapat mewujudkan kesedaran dalam kalangan masyarakat mengenai kepentingan air bersih dan menggalakkan masyarakat untuk memelihara air bersih._
 
-## Goals
+### Goals
 
 1. Reduce nutrient pollution.
 2. Reduce the occurence of eutrophication in rivers and lakes.
@@ -99,17 +116,17 @@ _Pada masa yang sama, kami berharap dapat mewujudkan kesedaran dalam kalangan ma
 6. _Menjimat tenaga manusia._
 7. _Menggunakan tenaga boleh diperbaharui sebagai punca kuasa utama_
 
-## Specifications
+### Specifications
 
 1. Arduino Uno microcontroller
 2. pH sensor
 3. Arduino controlled water pump
 
-1. _Pengawal mikro Arduino Uno_
-2. _Pengesan sensor_
-3. _Pam air yang dikawal dengan Arduino_
+_1. Pengawal mikro Arduino Uno_
+_2. Pengesan sensor_
+_3. Pam air yang dikawal dengan Arduino_
 
-## Rationale
+### Rationale
 
 The project is very important as it is built to reduce the occurrence of eutrophication. In our system, water will be circulated in the system several times before releasing it to a water source .By doing so we can reduce the content of nitrogen and phosphorus molecules in the water. Water will be channel from a reservoir to a plantation field to water the plant,the excess water that diffuses into the soil is collected by an underground reservoir instead of letting it become underground water. The water pump in the underground reservoir will pump the water back into the reservoir where the pH of the water can be regulated.
 
@@ -117,7 +134,7 @@ _Projek ini sangat penting kerana dibina untuk mengurang kesan kejadian eutrofik
 
 ### Benefits
 
-#### Minimise Nutrient Wasted
+**Minimise Nutrient Wasted**
 
 _Mengurangkan Pembaziran Nutrien_
 
@@ -125,7 +142,7 @@ The fertilizer dissolved in the water are recycled so that the plants can absorb
 
 _Baja yang dilarut di dalam air akan diguna semula_ _supaya tumbuhan dapat menyerap nutrien berlebihan yang tidak digunakan selepas larutan nutrien berlebihan dikitar semula ke tumbuhan. Proses ini berlaku beberapa kali untuk memastikan nutrien yang maksimum akan diserap oleh tumbuhan. Kesannya dapat dilihat dengan jelas apabila project ini digunakan untuk ladang yang berskala besar seperti kebun atau dusun. Dengan cara ini, kita boleh meminimumkan terjadinya eutrophication di negara kita sambil memastikan tumbuhan atau tanaman kita mendapat nutrien yang mencukupi untuk pertumbuhan._
 
-#### Fully-automated System
+**Fully-automated System**
 
 _Sistem automatik_
 
@@ -133,7 +150,7 @@ Our project uses Arduino which means that all the sensors and timers installed i
 
 _Projek kami menggunakan Arduino yang bermaksud sensor dan pemasa akan dipasang di dalamnya untuk membantu kami dalam penjagaan tumbuh-tumbuhan. Dengan cara yang mudah, kita dapat mengawal bilangan kitaran penggunaan semula air, jumlah baja diguna setiap hari, dan nilai pH air tanah untuk memastikan pertumbuhan tanaman yang optimum. Projek ini akan menjimatkan tenaga manusia kerana dia tidak memerlukan bantuan manual._
 
-#### pH Value Control
+**pH Value Control**
 
 _Mengawal Nilai pH_
 
@@ -141,7 +158,7 @@ A pH system is implemented in our project. We can measure the pH of the soil wat
 
 _Sistem pH yang digunakan dalam projek kami akan membantu mengukur nilai pH air tanah dan memastikan nilai pH sentiasa berada pada nilai yang optimum. Salah satu tujuan utama sistem pH adalah untuk mengurangkan kesan hujan asid ke tanah dan ladang kita. Kita boleh menstabilkan nilai pH tanah sepanjang tahun dengan menambahkan baja yang diperlukan. Setiap spesis tumbuhan atau tanaman mempunyai nilai pH yang berbeza untuk pertumbuhan yang optimum. Bergantung pada spesies tumbuhan, kita boleh menetapkan nilai pH pada sistem dan menambah baja mengikut keperluan. Dengan melakukan ini, kita boleh mewujudkan persekitaran yang paling baik untuk tumbuh-tumbuhan untuk meningkatkan hasil tanaman negara kita dan menghasilkan makanan yang lebih berkualiti kepada rakyat kita. Jika misi ini dicapai, kita akan dapat mengurangkan kebergantungan kita terhadap bahan-bahan import._
 
-#### Recycle Water
+**Recycle Water**
 
 _Mengitar Semula Air_
 
@@ -149,7 +166,7 @@ The water is being used continuously. Therefore, we can reduce the amount of wat
 
 _Air digunakan secara berterusan dalam projek kami. Oleh itu, kita dapat mengurangkan jumlah air yang digunakan untuk menanam tumbuhan. Walau bagaimanapun, untuk memastikan jumlah oksigen yang terlarut dalam air adalah sentiasa mencukupi , air akan ditukar selepas beberapa kitaran untuk memastikan penumbuhan tumbuhan yang sihat._
 
-#### Environmental-friendly
+**Environmental-friendly**
 
 _Mesra Alam_
 
@@ -157,7 +174,7 @@ Our project uses renewable source of energy, solar power as the main power suppl
 
 _Projek kami menggunakan sumber tenaga yang boleh diperbaharui, iaitu tenaga solar sebagai bekalan kuasa utama. Pada masa yang sama, matlamat utama kami untuk meminimumkan kesan eutrophikasi juga membantu mengurangkan kehilangan nutrien yang akan menyebabkan hakisan tanah dan gangguan kepada ekosistem akuatik._
 
-#### Reduce the risk of dengue
+**Reduce the risk of dengue**
 
 _Mengurangkan risiko denggi_
 
@@ -167,13 +184,13 @@ _Oleh sebab air berlebihan yang mengalir keluar akan dipam ke takungan air setel
 
 ## Milestones
 
-### Learning Innovation Competition 2019 Gold Award (International Level)
+**Learning Innovation Competition 2019 Gold Award (International Level)**
 
 _Pertandingan Inovasi Pembelajaran 2019 Emas (Peringkat Antarabangsa)_
 
 ## Future Plans
 
-### Water Filter
+**Water Filter**
 
 _Penapis air_
 
@@ -181,7 +198,7 @@ Our system also can be implemented into a water filtering system as it recycle t
 
 _Sistem kami akan ditambah dengan sistem penapisan air kerana dia mengitar semula air. Dengan menggantikan pasu bunga dengan tanah penapisan. Kami percaya bahawa kita dapat membersihkan air dengan menggunakan cara yang lebih mesra alam. Air yand ditapis boleh digunakan dalam pelbagai cara selain menyiram tumbuhan._
 
-### IoT implementation (app)
+**IoT implementation (app)**
 
 _Penggunaan IoT (app)_
 
@@ -189,7 +206,7 @@ We will create an app which will allow us to navigate the system more easily. Si
 
 _Kami akan membuat aplikasi yang membolehkan kami menavigasi sistem dengan lebih mudah. Oleh sebab pengguna sasaran kami adalah petani, pekebun perladangan besar, pemilik hotel dan penduduk yang sibuk. Keadaan ini akan memudahkan mereka untuk mengawal sistem dengan telefon mereka dengan cara yang mudah. Dengan ini, mereka dapat mengendalikan sistem ini di hujung jari._
 
-### Apply project to large scale plantations
+**Apply project to large scale plantations**
 
 _Mengimplementkan projek pada ladang berskala besar_
 
@@ -197,7 +214,7 @@ Larger scale of plantations enable us to observe the overall effect our project 
 
 _Skala ladang yang lebih besar membolehkan kita melihat kesan keseluruhan projek kita kepada alam sekitar. Oleh sebab tumbuhan yang berbeza memerlukan persekitaran yang berbeza,, kami berharap akan dapat membantu meningkatkan hasil tanaman tahunan negara kita dengan menstabilkan nilai pH tanah pada nilai optimumnya sepanjang tahun. Skala ladang yang lebih besar juga merupakan penyumbang utama kepada eutrophikasi di sungai atau tasik berdekatan. Oleh itu, dengan mengimplementkan projek kami dalam sistem pertanian utama, kami merancang untuk menyelesaikan masalah ini dan memastikan kualiti air di negara kita sentiasa terjamin._
 
-### Do research on the level of diffusion of fertilizer in soil
+**Do research on the level of diffusion of fertilizer in soil**
 
 _Menjalankan penyelidikan mengenai tahap penembusan baja di dalam tanah_
 
@@ -219,6 +236,6 @@ _Tahap penembusan pelbagai jenis baja akan mempengaruhi kepekatan nutrien terlar
 | Motor | 3 | 8.00 | 24.00 |
 | Water pump | 1 | 10.00 | 10.00 |
 | Plastic Pot | 2 | 6.00 | 12.00 |
-| Total | 237.32 |
+| Total ||| 237.32 |
 
-_ *Cost can be reduced by bigger quantity purchase of the relevant components and upon mass production.** _
+_**Cost can be reduced by bigger quantity purchase of the relevant components and upon mass production.**_
